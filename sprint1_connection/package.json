@@ -1,0 +1,19 @@
+{
+  "name": "sprint1_connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maginkaaa/WTAT_Sprint01.git"
+  },
+  "author": "Magdalena Karmashikova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maginkaaa/WTAT_Sprint01/issues"
+  },
+  "homepage": "https://github.com/maginkaaa/WTAT_Sprint01#readme"
+}
